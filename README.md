@@ -43,13 +43,13 @@ I specialize in the <b>Node.js ecosystem</b>, working extensively with framework
 
 ---
 
-### 📂 Featured Projects
+<!--### 📂 Featured Projects
 
 > *(Links can be updated as projects are published)*
 
 - 🔧 **Log Tracking System** – Real-time MQTT logger built with NestJS  
 - 💼 **Developer Portfolio** – Personal website hosted via GitHub Pages  
-- 🔌 **Webhook Event Handler** – Node.js service for managing external callbacks  
+- 🔌 **Webhook Event Handler** – Node.js service for managing external callbacks  -->
 
 ---
 
