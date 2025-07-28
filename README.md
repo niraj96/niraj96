@@ -67,7 +67,7 @@ I specialize in the <b>Node.js ecosystem</b>, working extensively with framework
   <a href="https://www.linkedin.com/in/niraj-singh-466209145" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/DevNiraj1996" target="_blank">
+  <a href="https://github.com/niraj96" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
