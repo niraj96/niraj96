@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Niraj Singh</h1>
+<h1 align="center">👋 Hi, I'm Niraj</h1>
 
 <p>
 I'm a passionate backend developer with <b>7 years of professional experience</b> in building scalable, secure, and performant APIs and services.<br>
